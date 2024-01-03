@@ -11,3 +11,5 @@
 💻 Projects
 
 https://github.com/PriyankaRai-2001/web_scarapping
+
+https://github.com/PriyankaRai-2001/Sql_project
