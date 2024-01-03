@@ -7,3 +7,7 @@
 💞️ I’m looking to collaborate on projects related to artificial intelligence, web development, or anything exciting!
 
 📫 How to reach me: Feel free to send me a message here on GitHub or reach out to me via email at [priyankaarvindrai20@gmail.com].
+
+💻 Projects
+
+https://github.com/PriyankaRai-2001/web_scarapping
